@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTextBox-Giris_maskeleme", "MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme.csproj", "{4813D6C6-933E-4FA6-ABCA-C54AEBDAC8D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4813D6C6-933E-4FA6-ABCA-C54AEBDAC8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813D6C6-933E-4FA6-ABCA-C54AEBDAC8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813D6C6-933E-4FA6-ABCA-C54AEBDAC8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813D6C6-933E-4FA6-ABCA-C54AEBDAC8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6539557-B293-434E-BFF5-6E1D127025BB}
+	EndGlobalSection
+EndGlobal

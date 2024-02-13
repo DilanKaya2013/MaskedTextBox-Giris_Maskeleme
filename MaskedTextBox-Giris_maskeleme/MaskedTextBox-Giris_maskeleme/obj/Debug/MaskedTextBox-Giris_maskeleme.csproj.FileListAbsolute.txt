@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\bin\Debug\MaskedTextBox-Giris_maskeleme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\bin\Debug\MaskedTextBox-Giris_maskeleme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\bin\Debug\MaskedTextBox-Giris_maskeleme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox_Giris_maskeleme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox_Giris_maskeleme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\MaskedTextBox-Giris_maskeleme\MaskedTextBox-Giris_maskeleme\obj\Debug\MaskedTextBox-Giris_maskeleme.pdb
